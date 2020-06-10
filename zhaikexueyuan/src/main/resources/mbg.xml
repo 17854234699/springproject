@@ -11,7 +11,7 @@
 		</commentGenerator>
 		<!-- 配置数据库连接 -->
 		<jdbcConnection driverClass="com.mysql.jdbc.Driver"
-			connectionURL="jdbc:mysql://localhost:3306/zhaike?useUnicode=true&amp;characterEncoding=utf8&amp;useSSL=false"
+			connectionURL="jdbc:mysql://localhost:3306/ssm?useUnicode=true&amp;characterEncoding=utf8&amp;useSSL=false"
 			userId="root"
 			password="root">
 		</jdbcConnection>
